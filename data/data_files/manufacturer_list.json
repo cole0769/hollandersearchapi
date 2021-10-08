@@ -1,0 +1,409 @@
+{
+	"dbVersion": "Enterprise 87.02",
+	"manufacturers": [
+		{
+			"mfrCode": "AC",
+			"mfrName": "AC-Delco"
+		},
+		{
+			"mfrCode": "AL",
+			"mfrName": "Alfa-Romeo"
+		},
+		{
+			"mfrCode": "AM",
+			"mfrName": "AM General"
+		},
+		{
+			"mfrCode": "AO",
+			"mfrName": "Autolite"
+		},
+		{
+			"mfrCode": "AS",
+			"mfrName": "Aston Martin"
+		},
+		{
+			"mfrCode": "AU",
+			"mfrName": "Audi"
+		},
+		{
+			"mfrCode": "AW",
+			"mfrName": "Aisin Warner"
+		},
+		{
+			"mfrCode": "AZ",
+			"mfrName": "Azure Dynamics"
+		},
+		{
+			"mfrCode": "BE",
+			"mfrName": "Bentley"
+		},
+		{
+			"mfrCode": "BL",
+			"mfrName": "British Leyland"
+		},
+		{
+			"mfrCode": "BM",
+			"mfrName": "BMW"
+		},
+		{
+			"mfrCode": "BO",
+			"mfrName": "Bosch"
+		},
+		{
+			"mfrCode": "BW",
+			"mfrName": "Borg-Warner"
+		},
+		{
+			"mfrCode": "BY",
+			"mfrName": "BYD"
+		},
+		{
+			"mfrCode": "CH",
+			"mfrName": "Chrysler"
+		},
+		{
+			"mfrCode": "CI",
+			"mfrName": "Citroen"
+		},
+		{
+			"mfrCode": "CK",
+			"mfrName": "Checker"
+		},
+		{
+			"mfrCode": "CN",
+			"mfrName": "Continental"
+		},
+		{
+			"mfrCode": "CO",
+			"mfrName": "MINI Cooper"
+		},
+		{
+			"mfrCode": "CT",
+			"mfrName": "Carter"
+		},
+		{
+			"mfrCode": "CZ",
+			"mfrName": "Czech Republic"
+		},
+		{
+			"mfrCode": "DA",
+			"mfrName": "Datsun"
+		},
+		{
+			"mfrCode": "DE",
+			"mfrName": "Germany"
+		},
+		{
+			"mfrCode": "DH",
+			"mfrName": "Daihatsu"
+		},
+		{
+			"mfrCode": "DL",
+			"mfrName": "Delco"
+		},
+		{
+			"mfrCode": "DS",
+			"mfrName": "Dana-Spicer"
+		},
+		{
+			"mfrCode": "DW",
+			"mfrName": "Daewoo"
+		},
+		{
+			"mfrCode": "ES",
+			"mfrName": "Spain"
+		},
+		{
+			"mfrCode": "FD",
+			"mfrName": "Ford"
+		},
+		{
+			"mfrCode": "FE",
+			"mfrName": "France"
+		},
+		{
+			"mfrCode": "FI",
+			"mfrName": "Fiat-Lancia"
+		},
+		{
+			"mfrCode": "FL",
+			"mfrName": "Freightliner"
+		},
+		{
+			"mfrCode": "FR",
+			"mfrName": "Ferrari"
+		},
+		{
+			"mfrCode": "FS",
+			"mfrName": "Fisker"
+		},
+		{
+			"mfrCode": "GB",
+			"mfrName": "United Kingdom"
+		},
+		{
+			"mfrCode": "GE",
+			"mfrName": "Geely"
+		},
+		{
+			"mfrCode": "GM",
+			"mfrName": "General Motors"
+		},
+		{
+			"mfrCode": "GN",
+			"mfrName": "Genesis"
+		},
+		{
+			"mfrCode": "HA",
+			"mfrName": "Honda"
+		},
+		{
+			"mfrCode": "HI",
+			"mfrName": "Hitachi"
+		},
+		{
+			"mfrCode": "HL",
+			"mfrName": "Holley"
+		},
+		{
+			"mfrCode": "HN",
+			"mfrName": "Honda"
+		},
+		{
+			"mfrCode": "HY",
+			"mfrName": "Hyundai"
+		},
+		{
+			"mfrCode": "IF",
+			"mfrName": "Infiniti"
+		},
+		{
+			"mfrCode": "IL",
+			"mfrName": "Israel"
+		},
+		{
+			"mfrCode": "IN",
+			"mfrName": "International"
+		},
+		{
+			"mfrCode": "IS",
+			"mfrName": "Isuzu"
+		},
+		{
+			"mfrCode": "IT",
+			"mfrName": "Italy"
+		},
+		{
+			"mfrCode": "JA",
+			"mfrName": "Jaguar"
+		},
+		{
+			"mfrCode": "JP",
+			"mfrName": "Jeep"
+		},
+		{
+			"mfrCode": "KI",
+			"mfrName": "Kia"
+		},
+		{
+			"mfrCode": "LB",
+			"mfrName": "Lamborghini"
+		},
+		{
+			"mfrCode": "LE",
+			"mfrName": "Lexus"
+		},
+		{
+			"mfrCode": "LO",
+			"mfrName": "Lotus"
+		},
+		{
+			"mfrCode": "LU",
+			"mfrName": "Lucas"
+		},
+		{
+			"mfrCode": "MA",
+			"mfrName": "Maseratti"
+		},
+		{
+			"mfrCode": "MB",
+			"mfrName": "Mercedes-Benz"
+		},
+		{
+			"mfrCode": "MC",
+			"mfrName": "Motorcraft"
+		},
+		{
+			"mfrCode": "MG",
+			"mfrName": "MG"
+		},
+		{
+			"mfrCode": "MH",
+			"mfrName": "Mahindra"
+		},
+		{
+			"mfrCode": "MI",
+			"mfrName": "Mitsuba"
+		},
+		{
+			"mfrCode": "ML",
+			"mfrName": "McLaren"
+		},
+		{
+			"mfrCode": "MN",
+			"mfrName": "Morgan"
+		},
+		{
+			"mfrCode": "MO",
+			"mfrName": "Modine"
+		},
+		{
+			"mfrCode": "MU",
+			"mfrName": "Mitsubishi"
+		},
+		{
+			"mfrCode": "MV",
+			"mfrName": "Mobility Ventures"
+		},
+		{
+			"mfrCode": "MZ",
+			"mfrName": "Mazda"
+		},
+		{
+			"mfrCode": "ND",
+			"mfrName": "Nippondenso"
+		},
+		{
+			"mfrCode": "NG",
+			"mfrName": "Nags"
+		},
+		{
+			"mfrCode": "NI",
+			"mfrName": "Nissan"
+		},
+		{
+			"mfrCode": "NL",
+			"mfrName": "Netherlands"
+		},
+		{
+			"mfrCode": "NO",
+			"mfrName": "Norway"
+		},
+		{
+			"mfrCode": "PE",
+			"mfrName": "Peugeot"
+		},
+		{
+			"mfrCode": "PL",
+			"mfrName": "Polestar"
+		},
+		{
+			"mfrCode": "PR",
+			"mfrName": "Porsche"
+		},
+		{
+			"mfrCode": "PZ",
+			"mfrName": "Panoz"
+		},
+		{
+			"mfrCode": "RE",
+			"mfrName": "Renault"
+		},
+		{
+			"mfrCode": "RR",
+			"mfrName": "Rolls Royce"
+		},
+		{
+			"mfrCode": "RU",
+			"mfrName": "Russian"
+		},
+		{
+			"mfrCode": "RV",
+			"mfrName": "Rover"
+		},
+		{
+			"mfrCode": "SA",
+			"mfrName": "Saab"
+		},
+		{
+			"mfrCode": "SB",
+			"mfrName": "Stromberg"
+		},
+		{
+			"mfrCode": "SC",
+			"mfrName": "Scion"
+		},
+		{
+			"mfrCode": "SN",
+			"mfrName": "Saturn"
+		},
+		{
+			"mfrCode": "ST",
+			"mfrName": "Studebaker"
+		},
+		{
+			"mfrCode": "SU",
+			"mfrName": "Subaru"
+		},
+		{
+			"mfrCode": "SW",
+			"mfrName": "Switzerland"
+		},
+		{
+			"mfrCode": "SZ",
+			"mfrName": "Suzuki"
+		},
+		{
+			"mfrCode": "TE",
+			"mfrName": "Tec"
+		},
+		{
+			"mfrCode": "TR",
+			"mfrName": "Triumph"
+		},
+		{
+			"mfrCode": "TS",
+			"mfrName": "Tesla"
+		},
+		{
+			"mfrCode": "TT",
+			"mfrName": "Tata"
+		},
+		{
+			"mfrCode": "TY",
+			"mfrName": "Toyota"
+		},
+		{
+			"mfrCode": "US",
+			"mfrName": "United States"
+		},
+		{
+			"mfrCode": "VA",
+			"mfrName": "Acura"
+		},
+		{
+			"mfrCode": "VE",
+			"mfrName": "Valeo"
+		},
+		{
+			"mfrCode": "VL",
+			"mfrName": "Volvo"
+		},
+		{
+			"mfrCode": "VW",
+			"mfrName": "Volkswagen"
+		},
+		{
+			"mfrCode": "WR",
+			"mfrName": "Workhorse"
+		},
+		{
+			"mfrCode": "YU",
+			"mfrName": "Yugo"
+		},
+		{
+			"mfrCode": "ZR",
+			"mfrName": "Zardoz"
+		}
+	]
+}

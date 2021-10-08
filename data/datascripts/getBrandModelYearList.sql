@@ -1,0 +1,1 @@
+SELECT DISTINCT MfrCd, ModelNm, IdxModel TrimLevel, ModelYear, DBVersion FROM HollanderSupport.dbo.vw_CarModels WHERE mfrCd = @mfrCode AND ModelNm = @modelname order by 1,2

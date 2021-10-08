@@ -1,0 +1,1 @@
+SELECT TOP 1 DBVersion FROM HollanderSupport.dbo.vw_CarModels

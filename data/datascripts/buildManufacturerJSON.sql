@@ -1,0 +1,1 @@
+select * from HollanderSupport.dbo.vw_build_json_file_manufacturer

@@ -1,0 +1,1 @@
+select MfrCd, MfrName from HollanderSupport.dbo.vw_CarManufacturer

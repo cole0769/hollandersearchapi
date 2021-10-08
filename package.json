@@ -1,0 +1,36 @@
+{
+  "name": "hollandersearchapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "hollander",
+    "catalog management",
+    "nodejs",
+    "express",
+    "sequelize",
+    "mssql",
+    "rest",
+    "api"
+  ],
+  "author": "cgardner",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cors": "^2.8.12",
+    "nodemon": "^2.0.13"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "fs-extra": "^10.0.0",
+    "helmet": "^4.6.0",
+    "morgan": "^1.10.0",
+    "mssql": "^7.2.1",
+    "sequelize": "^6.6.5"
+  }
+}
